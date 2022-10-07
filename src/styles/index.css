@@ -10,3 +10,48 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.sujetador {
+    width: 10px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: black;
+}
+.traffict-light {
+    width: 200px;
+    height: 500px;
+    background-color: black;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.green{
+    height:125px ;
+    width: 125px;
+    background-color: green;
+    margin-top: 20px;
+    border-radius: 100%;
+    margin-left: 35px;
+    
+}
+
+.yellow{
+    height:125px ;
+    width: 125px;
+    background-color: yellow;
+    margin-top: 20px;
+    border-radius: 100%;
+    margin-left: 35px;
+}
+
+.red{
+    height:125px ;
+    width: 125px;
+    background-color: red;
+    margin-top: 20px;
+    border-radius: 100%;
+    margin-left: 35px;
+}
+
+.on {
+    box-shadow: 0 0 20px rgb(253, 253, 253);
+}
